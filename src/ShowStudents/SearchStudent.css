@@ -1,0 +1,60 @@
+
+body {
+    color: slategray;
+    text-align: center;
+    
+  }
+  
+  .myTable {
+  border: black solid 3px;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+  
+  }
+
+
+
+.TableHead {
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+.TableRow{
+    background-color: #009879;
+    color: #ffffff;
+    text-align: left;
+}
+
+
+
+
+
+
+.TableBody{
+    font-weight: bold;
+    color: #7c084c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
